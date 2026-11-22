@@ -30,7 +30,11 @@ Deterministic: fixed-seed PRNG, no Date/random/network.
   https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047,
   topics makefun, ai-agents, bounties, growth. README has the 3 live badges.
   LICENSE is MIT with SPDX-License-Identifier: MIT line.
-- grade-local NOT run (time); not a blocker — the local PNG checks above pass.
+- grade-local NOT runnable: the kit's scorer/reference data is not published
+  for this program/v1 competition ("its scorer and reference data are not
+  published in the kit, so the house grades it from its competition
+  directory") — environmental limitation, not a code failure. The local PNG
+  checks above pass instead.
 
 ## What the monitor must do to submit
 1. Submit BEFORE 04:47 WIB using the kit CLI from the unpacked kit, e.g.:
